@@ -30,7 +30,6 @@ body {
     display: flex;
     width: min(100% - 3rem, 700px);
     border-radius: 0.75rem;
-    overflow: hidden;
 }
 
 .card--white {
@@ -45,13 +44,13 @@ body {
     height: 100%;
     width: 100%;
     object-fit: cover;
+    border-radius: 0.75rem 0 0 0.75rem;
 }
 
 .description {
     flex-basis: 50%;
     width: 100%;
     padding-block: 2rem;
-    overflow: visible;
 }
 
 .description__header {
@@ -166,6 +165,7 @@ body {
 
     .preview__image {
         height: 258px;
+        border-radius: 0.75rem 0.75rem 0 0;
     }
 
     .description {

@@ -89,7 +89,7 @@ Here some code of mine:
 
 ### Continued development
 
-Some issues I founded, when the higth are low the card just show half of the content. Hope to fix this issues ASAP.
+~~Some issues I founded, when the higth are low the card just show half of the content. Hope to fix this issues ASAP.~~
 
 ### Useful resources
 
@@ -107,6 +107,7 @@ Some issues I founded, when the higth are low the card just show half of the con
 
 ### Big Thanks
 
+- [@correlucas](https://www.frontendmentor.io/profile/correlucas) - Thanks to @correlucas for helping me to fix overflow issues.
 - [A Complete Guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [What On Earth Is Semantic Markup? (And Why Should You Learn To Write It)](https://html.com/semantic-markup/)
 - [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
