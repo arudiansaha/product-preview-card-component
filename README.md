@@ -27,8 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-- ![Desktop version](./result/screenshot-desktop.png)
-- ![Mobile version](./result/screenshot-mobile.png)
+#### Desktop Version
+
+![Desktop version](./result/screenshot-desktop.png)
+
+#### Mobile Version
+
+![Mobile version](./result/screenshot-mobile.png)
 
 ### Links
 
