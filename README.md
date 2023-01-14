@@ -29,11 +29,11 @@ Users should be able to:
 
 #### Desktop Version
 
-![Desktop version](./result/screenshot-desktop.png)
+- [Desktop version](./sceenshots/screenshot-desktop.png)
 
 #### Mobile Version
 
-![Mobile version](./result/screenshot-mobile.png)
+- [Mobile version](./sceenshots/screenshot-mobile.png)
 
 ### Links
 
